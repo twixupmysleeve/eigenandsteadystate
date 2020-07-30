@@ -9,4 +9,4 @@ I thought I'd ccombine the two ideas, so I wrote a program that will take in 2 i
 
 Note how the steady-state vector ALWAYS has the same (or directly opposite) direction as the Eigenvector, which, if you calculate, has the Eigenvalue of 1 (or closest to 1)
 
-**I plan on updating this soon for a 3x3 Stochastic Matrix and soon an *n*x*n* (if that's possible)**
+**I plan on updating this soon for a 3x3 Stochastic Matrix and, eventually,  an *n*x*n* (if that's possible)**
